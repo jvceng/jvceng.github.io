@@ -225,6 +225,15 @@ li.fb a span:hover {
 	background-position: center;
 	/*--background-size: 100% 100%;--*/
 }
+.slider2{
+	background: url(../images/solarplant.jpg) no-repeat center top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	/*--background-size: 100% 100%;--*/
+}
 .slider_container{
 	width:90%;
 	margin:0 auto;
